@@ -140,18 +140,6 @@ http://localhost:8080/todos
 
 ---
 
-## 🚀 Roadmap / Improvements
-
-* Introduce **Service Layer** (clean architecture)
-* Add **DTO pattern** for better API design
-* Implement **Validation** (`@Valid`)
-* Add **Global Exception Handling**
-* Integrate **Swagger/OpenAPI documentation**
-* Replace H2 with **PostgreSQL**
-* Add **Authentication (JWT / Spring Security)**
-
----
-
 ## 👨‍💻 Author
 
 **Adnan Qamar**
